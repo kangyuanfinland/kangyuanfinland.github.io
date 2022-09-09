@@ -1,7 +1,9 @@
-<head>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+ <head>
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="bookmark" href="favicon.ico" type="image/x-icon"　/>
 </head>
+</html>
 
 <table border="0">
   <tr>
