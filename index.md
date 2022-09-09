@@ -6,7 +6,7 @@
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="bookmark" href="favicon.ico" type="image/x-icon"　/>
 </head>
-
+</html>
 
 <table border="0">
   <tr>
@@ -37,5 +37,5 @@ tba...
 *   Comments:  
 *   Cities recommended in France:  
 
-</html>
+
 
