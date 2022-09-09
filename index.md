@@ -22,9 +22,12 @@ tba...
 # Honors
 tba...
 # Miscellaneous
-·Hobbies:
-·Comments:
-·Cities recommended in France:
-·Cities recommended in Germany:
-·Cities recommended in Norway:
-·Cities recommended in Finland:
+* Hobbies:
+* Comments:
+* Cities recommended in France:
+* Cities recommended in Germany:
+* Cities recommended in Norway:
+* Cities recommended in Finland:
+
+
+
