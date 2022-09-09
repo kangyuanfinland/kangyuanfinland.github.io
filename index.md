@@ -1,3 +1,8 @@
+<head>
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="bookmark" href="favicon.ico" type="image/x-icon"　/>
+</head>
+
 <table border="0">
   <tr>
     <td width="75%">
