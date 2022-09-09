@@ -1,9 +1,9 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Kang</h1>
-      <p><b>Joint master student</b></p>
-      <p><b>Computer science</b></p>
+      <!--<h1>Kang</h1>-->
+      <p><b>Joint master student studying in Norway, France, Germany, and Finland</b></p>
+      <p><b>Computer Science</b></p>
       <p><b>kangy@stud.ntnu.no</b></p>
       <p><b>Searching for a master thesis project</b></p>
     </td>
@@ -13,11 +13,13 @@
   </tr>
 </table>
 
-# Head 2
-text
-# Head 3
-text
-# Head 4
-text
-# Head 5
-text
+# About Me
+tba...
+# News
+tba...
+# Education
+tba...
+# Experience
+tba...
+# Honors
+tba...
