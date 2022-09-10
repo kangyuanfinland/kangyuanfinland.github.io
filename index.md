@@ -45,9 +45,9 @@ The experiments prove that the 3D simulation pipeline provides a potential usefu
 06/2020 – 07/2020, Neusoft Technology Co., Ltd., Shenyang, China  
 Lead one team (5 people) to design and implement an Airline Company Customer Value Analysis System based on big data analysis techniques  
 # Honors
-*  During Master's Studies
+*  During Master's Studies  
 Erasmus Mundus Joint Master Degree (EMJMD) Scholarship
-*  During Bachelor's Studies
+*  During Bachelor's Studies  
 Excellent Graduate   
 Excellent Student Model   
 Excellent Individual with Academic Expertise  
