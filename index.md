@@ -29,6 +29,7 @@ coming soon...
 *  08/2021 - 12/2021 Norwegian University of Science and Technology
 *  01/2022 - 06/2022 Université Jean Monnet
 *  09/2022 - Current University of Eastern Finland  
+
 #### B.Sc. in Computer Science
 *  08/2017 - 06/2021 Northeastern University (Home university)
 *  09/2018 - 07/2019 Harbin Institute of Technology (Exchange student)
@@ -48,6 +49,7 @@ coming soon...
 # Honors
 #### During Master's Studies  
 *  Erasmus Mundus Joint Master Degree (EMJMD) Scholarship  
+
 #### During Bachelor's Studies  
 *  Excellent Graduate   
 *  Excellent Student Model   
