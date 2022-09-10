@@ -21,6 +21,8 @@
 # About Me
 I am currently a joint master student studying at Norwegian University of Science and Technology (Norway), Université Jean Monnet (France), and University of Eastern Finland (Finland).   
 Before that, I obtained my Bachelor's degree at Northeastern University (China). During my bachelor studies, I was an exchange or visiting student at Harbin Institute of Technology (China), Okayama University (Japan), Technische Universität Dortmund (Germany), and ShanghaiTech University (China).
+# Projects
+111
 # Education
 tba...
 # Experience
